@@ -1,2 +1,6 @@
-# ds4002-project1
-Political Sentiment Analysis
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+# ds4002-proj1s
